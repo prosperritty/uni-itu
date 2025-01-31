@@ -1,3 +1,12 @@
+# Build
+Our application is using Expo:
+```console
+$ npm install
+...
+$ npx expo start
+...
+```
+
 # My part of implementation
 
 Main parts that i have implemented:
