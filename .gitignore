@@ -1,0 +1,5 @@
+mobile/.expo/
+mobile/node_modules/
+mobile/package-lock.json
+api/env/
+api/__pycache__/
